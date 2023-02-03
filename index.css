@@ -1,0 +1,17 @@
+element.style {
+}
+html {
+    font-size: 1em;
+    line-height: 1.4;
+}
+button, html, input, select, textarea {
+    color: #222;
+}
+user agent stylesheet
+html {
+    display: block;
+}
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
